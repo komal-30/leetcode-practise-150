@@ -1,3 +1,5 @@
+#Problem Statement Link : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 def removeDuplicates(nums):
     #First element
     temp_index = 1
